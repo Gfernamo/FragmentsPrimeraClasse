@@ -19,7 +19,9 @@ public class MainActivity extends AppCompatActivity {
         boto1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 // TODO: inflar el fragment
+
 
                 FragmentManager fm = getSupportFragmentManager();
 
